@@ -1,0 +1,7 @@
+flask
+geopy
+lxml
+numpy
+pandas
+pytest
+requests
